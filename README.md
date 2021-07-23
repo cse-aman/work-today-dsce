@@ -2,6 +2,9 @@
 
 - We envision creating better and empowered livelihood for  daily wagers all across India. Through our innovation and dedication we are striving towards creating an organized infrastructure and accountable days of employment for these daily wagers . We have deeply understood the state of workers in India. We simply connect workers with hirers , whilst providing a simple to use UI that anybody can make use of to hire or to work.
 
+## Contributors: 
+ - Aman Anand, Vishwajeet Pandey, Trushika Arya, Swastika Arya  (CSE 6th Sem, E Section, DSCE)
+
 
 ## Features:
 
@@ -27,15 +30,6 @@
 - Code Refactor
 - Bug fixes
 - Performance improvements
-
-
-## To Contribute:
-
-- Create an issue
-- Get it assigned
-- Work on it
-- Create pull request and mention the issue number with '#'
-- Make changes if required
 
 ## Screenshots
 
